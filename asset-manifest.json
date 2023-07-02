@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/desert-fornt/static/css/main.53f71881.css",
-    "main.js": "/desert-fornt/static/js/main.9af25b9c.js",
+    "main.js": "/desert-fornt/static/js/main.90ab83b3.js",
     "static/media/BG2.jpg": "/desert-fornt/static/media/BG2.74b784a9dbdfa1da62bf.jpg",
     "static/media/1.jpg": "/desert-fornt/static/media/1.af4b5ca5fa8369325e36.jpg",
     "static/media/4.jpg": "/desert-fornt/static/media/4.e829f1c1383417c0405c.jpg",
@@ -17,10 +17,10 @@
     "static/media/youtube.svg": "/desert-fornt/static/media/youtube.9e6e68bec2c1f5e29b3b54dc02f54c47.svg",
     "index.html": "/desert-fornt/index.html",
     "main.53f71881.css.map": "/desert-fornt/static/css/main.53f71881.css.map",
-    "main.9af25b9c.js.map": "/desert-fornt/static/js/main.9af25b9c.js.map"
+    "main.90ab83b3.js.map": "/desert-fornt/static/js/main.90ab83b3.js.map"
   },
   "entrypoints": [
     "static/css/main.53f71881.css",
-    "static/js/main.9af25b9c.js"
+    "static/js/main.90ab83b3.js"
   ]
 }
