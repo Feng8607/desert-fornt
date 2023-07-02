@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/desert-fornt/static/css/main.53f71881.css",
+    "main.js": "/desert-fornt/static/js/main.9af25b9c.js",
+    "static/media/BG2.jpg": "/desert-fornt/static/media/BG2.74b784a9dbdfa1da62bf.jpg",
+    "static/media/1.jpg": "/desert-fornt/static/media/1.af4b5ca5fa8369325e36.jpg",
+    "static/media/4.jpg": "/desert-fornt/static/media/4.e829f1c1383417c0405c.jpg",
+    "static/media/7.jpg": "/desert-fornt/static/media/7.0e619d1b02508729ae5a.jpg",
+    "static/media/2.jpg": "/desert-fornt/static/media/2.f14c32270dfeb0ad1615.jpg",
+    "static/media/5.jpg": "/desert-fornt/static/media/5.0b0b8dadcf44f21c066a.jpg",
+    "static/media/BG.jpg": "/desert-fornt/static/media/BG.c4fc1273cf18e7c3ac47.jpg",
+    "static/media/6.jpg": "/desert-fornt/static/media/6.fa9375d5c65ee2695d13.jpg",
+    "static/media/3.jpg": "/desert-fornt/static/media/3.1b77f915fece1bd25244.jpg",
+    "static/media/instagram.svg": "/desert-fornt/static/media/instagram.62572c862d53f228aa8eff879e2e1d37.svg",
+    "static/media/twitter.svg": "/desert-fornt/static/media/twitter.6bd5ae51c88850a73dec11567427f58a.svg",
+    "static/media/facebook.svg": "/desert-fornt/static/media/facebook.f51db061afd1b76fff7ddfd786e4e06c.svg",
+    "static/media/youtube.svg": "/desert-fornt/static/media/youtube.9e6e68bec2c1f5e29b3b54dc02f54c47.svg",
+    "index.html": "/desert-fornt/index.html",
+    "main.53f71881.css.map": "/desert-fornt/static/css/main.53f71881.css.map",
+    "main.9af25b9c.js.map": "/desert-fornt/static/js/main.9af25b9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f71881.css",
+    "static/js/main.9af25b9c.js"
+  ]
+}
