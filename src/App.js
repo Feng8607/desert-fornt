@@ -20,7 +20,7 @@ function App() {
     <BrowserRouter>
       <NavComponent currentUser={currentUser} setCurrentUser={setCurrentUser} />
       <Routes>
-        <Route path="/" element={<HomeComponent />} />
+        <Route path="/desert-fornt" element={<HomeComponent />} />
         <Route path="/register" element={<RegisterComponent />} />
         <Route path="/About" element={<AboutComponent />} />
         <Route path="/Commodity" element={<CommodityComponent />} />
