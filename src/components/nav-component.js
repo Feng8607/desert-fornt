@@ -24,14 +24,14 @@ const NavComponent = (props) => {
   return (
     <div className="nav_header">
       <nav className="header">
-        <Link className="brand" to="/">
+        <Link className="brand" to="/desert-fornt">
           <i className="bx bx-cake" />
           手做點心
         </Link>
         <div className="headerContainer">
           <ul className={active}>
             <li className="nav_item">
-              <Link className="nav_link" to="/">
+              <Link className="nav_link" to="/desert-fornt">
                 首頁
               </Link>
             </li>
